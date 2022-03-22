@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "FIP",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
